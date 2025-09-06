@@ -57,7 +57,7 @@ export default function Hero() {
                             <FaLinkedin />
                         </a>
 
-                        <a href="#"
+                        <a href="https://github.com/PiskaManojkumar/"
                             className="bg-gray-700 hover:bg-gray-900 p-2 rounded-lg text-white text-sm transition-colors">
                             <FaGithub />
                         </a>
