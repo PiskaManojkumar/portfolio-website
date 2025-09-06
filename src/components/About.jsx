@@ -11,7 +11,7 @@ export default function About() {
                 Senior Software Engineer & E-commerce Specialist
               </h3>
               <p className="text-gray-300 mb-6">
-                Hey there! I'm a software engineer with 3.5+ years of experience
+                Hey there! I'm a software engineer with 4+ years of experience
                 who genuinely loves building scalable web applications and
                 digital solutions that make people's lives easier. I specialize
                 in full-stack development, with expertise in e-commerce
